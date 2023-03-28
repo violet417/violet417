@@ -30,7 +30,7 @@ I wanna be a developer.
   
 🏆 **Award**
    
-**ㆍ <a href="https://www.kaggle.com/competitions/nfl-player-contact-detection">1st and Future - Player Contact Detection</a>**  (Private 61위, 동메달(Top 7%))
+**ㆍ <a href="https://www.kaggle.com/competitions/nfl-player-contact-detection">1st and Future - Player Contact Detection</a>**  (Private 61위, Bronze Score(Top 7%))
  
 **ㆍ <a href="https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance">Counting and categorizing vehicles in surveillance</a>**  (Public 1위, Private 1위)
  

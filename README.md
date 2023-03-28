@@ -1,6 +1,11 @@
-<a href=""><img src="https://user-images.githubusercontent.com/83712521/212296254-6f8123fe-50a3-4613-9461-b183d5c29b47.png" width="30" height="30">
-Notion : [https://florentine-harmony-dc0.notion.site/Jung-yu-seok-cdf005034f5941a1852d7355246f4975](https://buttery-eggnog-d62.notion.site/Violet-4bde91e32ddc459aa847458dd221a26f)
+### Hi there 👋, my name is Violet
+I wanna be a developer.	
 
+- 🌱 I’m currently learning Machine Learning, AI, Computer Vision.	
+
+<a href=""><img src="https://user-images.githubusercontent.com/83712521/212296254-6f8123fe-50a3-4613-9461-b183d5c29b47.png" width="30" height="30">
+Notion : [https://buttery-eggnog-d62.notion.site/Violet-4bde91e32ddc459aa847458dd221a26f]
+<a href="https://buttery-eggnog-d62.notion.site/Violet-4bde91e32ddc459aa847458dd221a26f" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
 
 <br/>
 <br/>

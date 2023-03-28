@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Violet
+### Hi there 👋, I'm Violet.
 I wanna be a developer.	
 
 - 🌱 I’m currently learning Machine Learning, AI, Computer Vision.	

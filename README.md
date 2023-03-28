@@ -41,3 +41,10 @@ Notion : [https://florentine-harmony-dc0.notion.site/Jung-yu-seok-cdf005034f5941
 **ㆍ <a href="https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance">Counting and categorizing vehicles in surveillance</a>**  (Public 1위, Private 1위)
  
 **ㆍ <a href="https://dacon.io/competitions/official/236064/overview/description">데이콘 제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회</a>**  (Public 23위, Private 35위)
+
+ 
+<br/>
+<br/>
+### My Github stats
+![Violet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh941213&show_icons=trueshow_icons=true&theme=merko)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh941213&layout=compact&theme=tokyonight)

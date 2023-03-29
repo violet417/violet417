@@ -36,4 +36,3 @@ I wanna be a developer.
  
 **ㆍ <a href="https://dacon.io/competitions/official/236064/overview/description">데이콘 제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회</a>**  (Public 23위, Private 35위)
  
- <br/>
